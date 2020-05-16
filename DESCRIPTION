@@ -1,0 +1,14 @@
+Package: MatrixOperation
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Xingrui Wang
+Maintainer: Xingrui Wang <XingrWang@163.com>
+Description: A package with a function \code{MatOp} to calculate the result of a fomular.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.1.0)
+Suggests: 
+    testthat
+RoxygenNote: 7.1.0

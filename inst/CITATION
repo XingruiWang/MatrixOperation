@@ -1,0 +1,10 @@
+citHeader("To cite R in publications use:")
+
+citEntry(
+  entry = "Article",
+  author = personList(as.person("Xingrui Wang")),
+  title = "RUC test package",
+  journal = "RUC test journal",
+  year = 2020,
+  textVersion = ""
+)
