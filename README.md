@@ -1,6 +1,6 @@
 # MatrixOperation
 
-Homework of class
+Homework of the class
 
 ### Install
 
