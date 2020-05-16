@@ -5,7 +5,7 @@ Homework of class
 ### Install
 
 ```
-devtools::install_github("XingruiWang/MatrixOperatoin")
+devtools::install_github("XingruiWang/MatrixOperation")
 ```
 
 ### Example
