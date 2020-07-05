@@ -1,6 +1,6 @@
 # MatrixOperation
 
-Homework of the class
+My first R package. Homework of the Parallel Computing class.
 
 ### Install
 
